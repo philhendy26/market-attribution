@@ -1,5 +1,7 @@
 # market-attribution
 
+Adapted from Codecademy
+
 CoolTShirts, an innovative apparel shop, is running a bunch of marketing campaigns. In this project, the following were answered.
 
 1. Get familiar with the company.
@@ -18,3 +20,10 @@ CoolTShirts, an innovative apparel shop, is running a bunch of marketing campaig
 3. Optimize the campaign budget.
 
     CoolTShirts can re-invest in 5 campaigns. Which should they pick and why?
+
+
+
+<img width="505" height="225" alt="Screenshot 2026-08-04 at 07 51 49" src="https://github.com/user-attachments/assets/e95f11fe-0bde-4a5c-b552-7f99ad11ce9b" />
+
+
+   
