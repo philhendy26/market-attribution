@@ -1,10 +1,10 @@
 # market-attribution
 
-CoolTShirts, an innovative apparel shop, is running a bunch of marketing campaigns. In this project, you’ll be helping them answer these questions about their campaigns:
+CoolTShirts, an innovative apparel shop, is running a bunch of marketing campaigns. In this project, the following were answered.
 
 1. Get familiar with the company.
 
-    How many campaigns and sources does CoolTShirts use and how are they related? Be sure to explain the difference between utm_campaign and utm_source.
+    How many campaigns and sources does CoolTShirts use and how are they related? Explaining the difference between utm_campaign and utm_source.
     What pages are on their website?
 
 2. What is the user journey?
