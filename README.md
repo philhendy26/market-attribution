@@ -21,6 +21,17 @@ CoolTShirts, an innovative apparel shop, is running a bunch of marketing campaig
 
     CoolTShirts can re-invest in 5 campaigns. Which should they pick and why?
 
+-----------
+
+Answer to the above 
+
+1. The company runs eight different marketing campaigns across a range of different sources as referenced by the table below. With the weekly newsletter being the utilised one.
+
+utm_campaign identifies the specific ad or email (i.e. June-21 newsletter or sale)
+
+utm_source identifies which site sent the traffic (i.e. google, newsletter or facebook_ad)
+
+2. 
 
 
 <img width="505" height="225" alt="Screenshot 2026-08-04 at 07 51 49" src="https://github.com/user-attachments/assets/e95f11fe-0bde-4a5c-b552-7f99ad11ce9b" />
